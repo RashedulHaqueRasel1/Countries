@@ -1,0 +1,17 @@
+
+.box{
+    border: 2px solid blueviolet;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.card{
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.bg{
+    background: darkslateblue;
+    
+}
